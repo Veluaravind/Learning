@@ -4,4 +4,4 @@ This is the second line.
 
 This is the third line.
 
-This is the fourth line. pull test. Others change
+This is the fourth line. pull test. Others change. Edit the same line
