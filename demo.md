@@ -1,8 +1,7 @@
-This is the first line.Branch
+This is the first line.
 
-This is the second line.Branch
+This is the second line.
 
-This is the third line. My change
+This is the third line.
 
-This is the fourth line. pull test. Others change. Editing the same line in notepad and hub
-
+This is the stash example.
